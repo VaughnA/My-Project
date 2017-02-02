@@ -36,7 +36,8 @@ a {
   width: 150px;
   height: 10px;
   margin: 1em;
-  background-color: transparent; 
+  background-color: transparent;
+  color: white; 
 }
 .after-box {
   clear: left;
@@ -48,4 +49,5 @@ a {
   height: 10px;
   margin: 1em;
   background-color: transparent;
+  color: white;
 }
