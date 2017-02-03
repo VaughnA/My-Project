@@ -41,14 +41,14 @@ a {
 
 .button {
     margin-left: 600px;
-    background-color: black;
+    background-color: #4CAF50;
     border: none;
     font-size: 28px;
-    color: white;
+    color: #FFFFFF;
     padding: 20px;
     width: 200px;
     text-align: center;
-    transition-duration: 5s;
+    transition-duration: 2s;
     text-decoration: none;
     overflow: hidden;
     cursor: pointer;
@@ -64,12 +64,12 @@ a {
     margin-left: -20px !important;
     margin-top: -120%;
     opacity: 0;
-    transition: all 0.8s
+    transition: all 2s
 }
 
 .button:active:after {
     padding: 0;
     margin: 0;
     opacity: 1;
-    transition: 5s
+    transition: 2s
 }
