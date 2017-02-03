@@ -41,10 +41,10 @@ a {
 
 .button {
     position: relative;
-    background-color: #4CAF50;
+    background-color: white;
     border: none;
     font-size: 28px;
-    color: #FFFFFF;
+    color: black;
     padding: 20px;
     width: 200px;
     text-align: center;
@@ -71,5 +71,5 @@ a {
     padding: 0;
     margin: 0;
     opacity: 1;
-    transition: 0s
+    transition: 5s
 }
