@@ -48,7 +48,7 @@ a {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: white;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
@@ -58,7 +58,7 @@ a {
 .button:hover {background-color: #3e8e41}
 
 .button:active {
-  background-color: #3e8e41;
+  background-color: white;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
