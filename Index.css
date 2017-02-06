@@ -52,6 +52,7 @@ a {
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
+  margin-right: 100px;
 }
 
 .button:hover {background-color: red}
@@ -68,5 +69,5 @@ border: 1px solid white;
 border-radius: 30%;
 width: 700px;
 height: 350px;
-
+margin-top: 50px;
 }
