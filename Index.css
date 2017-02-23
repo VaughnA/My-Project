@@ -64,11 +64,12 @@ a {
 }
 
 .updates{
+
 background-color: white;
 border: 1px solid white;
 border-radius: 5%;
 width: 700px;
-height: 3000px;
+height: auto;
 margin-top: 50px;
 color: black;
 }
