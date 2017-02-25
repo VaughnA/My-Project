@@ -30,7 +30,7 @@ a {
 }
 
 .box2{
-  float: right;
+  float: right; /* Makes box go to the right of the screen */
   width: 150px;
   height: 10px;
   margin: 1em;
@@ -43,7 +43,7 @@ a {
   display: inline-block;
   padding: 15px 25px;
   font-size: 24px;
-  cursor: pointer;
+  cursor: pointer; /* When the pointer of the mouse goes over the screen it should have a highlight */
   text-align: center;
   text-decoration: none;
   outline: none;
@@ -60,16 +60,16 @@ a {
 .button:active {
   background-color: white;
   box-shadow: 0 5px #666;
-  transform: translateY(4px);
+  transform: translateY(4px); /* When the button is pressed it plays that clicking animation */
 }
 
 .updates{
 
 background-color: white;
-border: 1px solid white;
+border: 1px solid white; /* Creates that kind of a curve in the div */
 border-radius: 5%;
 width: 700px;
-height: auto;
+height: auto;  /* Height will increase whenever I add something new into it without me having to change anything */
 margin-top: 50px;
 color: black;
 }
